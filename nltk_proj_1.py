@@ -16,7 +16,7 @@ words = word_tokenize(example_text)
 
 filtered_text = []
 
-filtered_text = [word for word in words if word not in stop_words]
+filtered_text = [word for word in words if word.lower() not in stop_words]
 print(filtered_text)
 print(f"Length of word tokenize after filtering (stop_words): {len(filtered_text)}")
 
