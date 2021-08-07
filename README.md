@@ -10,4 +10,4 @@ pip install -r requirements.txt
 * v0.1 - Installating packages and then import libraries.
 * v0.2 - Use sent_tokenize, word_tokenize to tokenize respectively by sentence and words. Removing stop words from sentence.
 * v0.3 - PorterStemmer to stem words, speech tagging.
-* v0.4 - Chunking.
+* v0.4 - Chunking, chinking.
