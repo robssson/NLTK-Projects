@@ -11,4 +11,5 @@ pip install -r requirements.txt
 * v0.2 - Use sent_tokenize, word_tokenize to tokenize respectively by sentence and words. Removing stop words from sentence.
 * v0.3 - PorterStemmer to stem words, speech tagging.
 * v0.4 - Chunking, chinking.
-* v0.5 - Named Entity Recognition.
+* v0.5 - Named Entity Recognition, lemmatizing.
+* v0.6 - Corpora, WordNet
