@@ -13,3 +13,5 @@ pip install -r requirements.txt
 * v0.4 - Chunking, chinking.
 * v0.5 - Named Entity Recognition, lemmatizing.
 * v0.6 - Corpora, WordNet
+* v0.7 - Naive Bayes, Save Classifier.
+* v0.8 - Scikit-Learn.
